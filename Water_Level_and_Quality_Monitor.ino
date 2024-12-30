@@ -1,13 +1,3 @@
-/*
- * This code create a MENU structure on a 16x2 LCD screen.
- * Six (6) different screens are implemented, and you can travel
- * thru them by pressing a button on Arduino PIN 4. Each press
- * of the button advances one (1) screen. 
- * r
- * Made by Clovis Fritzen in 05/06/2017
- * http://www.FritzenMaker.com
- * http://www.FritzenLab.com.br
-*/
 //Based on YWROBOT's LiquidCrystal_I2C library, Library version:1.1
 //Also based on the Debounce.ino sketch that comes with Arduino IDE
 
